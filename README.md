@@ -4,7 +4,9 @@
 
 **CAMINHOS BÁSICOS:**
 CAMINHO 1 = 1; 2; 3; 4; 6.
+
 CAMINHO 2 = 1; 2; 3; 6.
+
 CAMINHO 3 = 1; 2; 5; 6.
 
 ## 2. Cálculo da Complexidade Ciclomática
