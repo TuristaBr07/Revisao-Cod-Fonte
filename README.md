@@ -1,8 +1,9 @@
 ## 1. Notação de Grafo de Fluxo e Caminhos Básicos
 
-![Grafo de Fluxo do método verificarUsuario](./Imagens/grafo_fluxo.png)
+<img width="1920" height="1080" alt="grafo_fluxo" src="https://github.com/user-attachments/assets/6456ab02-17cb-415c-952e-215de4108c7a" />
 
 **CAMINHOS BÁSICOS:**
+
 CAMINHO 1 = 1; 2; 3; 4; 6.
 
 CAMINHO 2 = 1; 2; 3; 6.
